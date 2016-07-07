@@ -6,5 +6,4 @@ public class Echo {
 		return "Echo: " + input;
 	}
 	
-
 }
